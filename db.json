@@ -1,0 +1,6 @@
+{
+	"connection": "mongodb://chick:pea@ds133922.mlab.com:33922/lorr_db",
+	"url": "mongodb://ds133922.mlab.com:33922",
+	"db": "lorr_db",
+	
+}

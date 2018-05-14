@@ -1,0 +1,7 @@
+{
+	"token":"NDIzNzA2OTgyMDI1OTIwNTEy.DZBoTA.JDyXaXzoi_xbhvCSCoAEtJOsXxY",
+	"conn": "mongodb://jtemple5:Gt5isboss@ds011785.mlab.com:11785/pantheon_test",
+	"db":"pantheon_test",
+	"feats" : "feats",
+	"classes" : "articles"
+}

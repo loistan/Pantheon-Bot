@@ -1,0 +1,16 @@
+{
+  "name": "pantheon-test-2",
+  "version": "1.0.0",
+  "description": "arizona state university cis440 capstone - team pantheon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ltan18",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.11"
+  }
+}
